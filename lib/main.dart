@@ -6,10 +6,9 @@ void main() => runApp(
         home: Scaffold(
           backgroundColor: Colors.blueGrey,
           appBar: AppBar(
-            title: Text("I Am Hanif"),
+            title: Text("I Am istiak"),
             backgroundColor: Colors.blueGrey[900],
 
-            //i am hanif
           ),
           body: Center(
             child: Image(
